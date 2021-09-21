@@ -1,0 +1,25 @@
+#Scene {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 320px;
+    height: 460px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 1px solid black;
+}
+#Score {
+    padding: 0;
+    margin: auto;
+    text-align: center;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
