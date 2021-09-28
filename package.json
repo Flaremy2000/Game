@@ -1,0 +1,19 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "Un proyecto de multiples juegos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flaremy2000/Game.git"
+  },
+  "author": "Flaremy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flaremy2000/Game/issues"
+  },
+  "homepage": "https://github.com/Flaremy2000/Game#readme"
+}
